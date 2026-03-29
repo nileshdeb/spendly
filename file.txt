@@ -1,0 +1,14 @@
+╭─── Claude Code v2.1.84 ──────────────────────────────────────────────────────╮
+│                                         │ Tips for getting started           │
+│              Welcome back!              │ Run /init to create a CLAUDE.md f… │
+│                                         │ ────────────────────────────────── │
+│                 ▐▛███▜▌                 │ Recent activity                    │
+│                ▝▜█████▛▘                │ No recent activity                 │
+│                  ▘▘ ▝▝                  │                                    │
+│                                         │                                    │
+│   kimi-k2.5:cloud · API Usage Billing   │                                    │
+│           D:\expense-tracker            │                                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+❯ /resume 
+  ⎿  Resume cancelled
